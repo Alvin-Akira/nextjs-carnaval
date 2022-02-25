@@ -1,0 +1,31 @@
+iframe {
+  border-radius: 20px;
+}
+
+.infImgTitre {
+  background-color: rgb(222, 199, 251);
+  border-radius: 15px;
+}
+.titreimg {
+  padding: 1em;
+}
+.ligneS {
+  border-top: 1px solid black;
+}
+.bTn {
+  margin: 0 1em;
+}
+.bTn button {
+  border: 1px solid black;
+  border-radius: 50%;
+  padding: 1em;
+  background-color: rgb(222, 199, 251);
+}
+.bTTn {
+  margin: 0 1em;
+}
+.bTTn button {
+  border: none;
+  padding: 1em;
+  background-color: rgb(222, 199, 251);
+}
