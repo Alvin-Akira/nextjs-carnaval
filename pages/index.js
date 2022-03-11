@@ -8,7 +8,7 @@ import { useState } from 'react';
 export default function Home() {
   let [comments, setComments] = useState([
     {
-      title: 'Coucou sous-titre',
+      title: 'TEST TEST TEST TEST VERCEEEEEEEL',
       content:
         'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod nam, voluptas similique rem reiciendis possimus rerum itaque blanditiis quis sunt veritatis, nihil, sapiente enim optio dignissimos cum deleniti in nobis?',
     },
